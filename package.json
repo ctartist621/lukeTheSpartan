@@ -1,0 +1,39 @@
+{
+  "name": "luke-the-spartan",
+  "version": "0.0.0",
+  "private": true,
+  "author": "David B Mittelman <dbmittelman@gmail.com>",
+  "description": "A virtual robot to complement our team :-)",
+  "dependencies": {
+    "hubot": "^2.11.0",
+    "hubot-business-cat": "^1.1.9",
+    "hubot-calculator": "^0.4.0",
+    "hubot-codinglove": "^0.2.6",
+    "hubot-darksky": "^1.0.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-factoids": "1.0.0",
+    "hubot-fliptable": "^1.2.0",
+    "hubot-google-images": "^0.2.2",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "0.2.0",
+    "hubot-heroku-keepalive": "^1.0.0",
+    "hubot-maps": "0.0.2",
+    "hubot-motivate": "^3.0.0",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.0",
+    "hubot-scripts": "^2.5.16",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "4.0.5",
+    "hubot-standup-alarm": "0.1.0",
+    "hubot-tell": "^1.2.3",
+    "hubot-thank-you": "0.0.3",
+    "hubot-thesimpsons": "^1.1.2",
+    "hubot-victory": "^1.2.0",
+    "hubot-youtube": "^1.0.0",
+    "soupselect": "0.2.0"
+  },
+  "engines": {
+    "node": "6.6.x"
+  }
+}
